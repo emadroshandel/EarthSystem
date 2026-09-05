@@ -1,8 +1,0 @@
-============================================================ 
-EarthSystem launcher   Fri 04/09/2026 21:18:27.64                        
-Folder: C:\0_WorksAndProjects\LocalLib\EMAD\Emad Apps\EarthSystem\                                               
-============================================================ 
---- trying: py -3
-3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
-*** SELECTED: py -3
-  Using: py -3
